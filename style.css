@@ -109,11 +109,22 @@ ESERCIZIO_4
 ESERCIZIO_5
 */
 
+.ex-5-square:hover {
+    transition: 1s;
+    transform: scale(2);
+}
+
+.ex-5-square:active {
+    transform: scale(.1);
+}
 
 /*
 ESERCIZIO_6
 */
 
+.ex-6-img:hover {
+    filter: grayscale(3)
+}
 
 /*
 ESERCIZIO_7
