@@ -130,26 +130,62 @@ ESERCIZIO_6
 ESERCIZIO_7
 */
 
+.ex-7-img:hover {
+    filter: grayscale(.6) sepia(.5);
+    transition: 2s;
+}
 
 /*
 ESERCIZIO_8
 */
 
+.ex-8-img:hover {
+    transition: 3s;
+    border-radius: 20px;
+    filter: contrast(.1) saturate(.5);
+}
 
 /*
 ESERCIZIO_9
 */
 
+.ex-9-img:hover {
+    transition: 2s;
+    border-radius: 10px;
+    filter: drop-shadow(.2) saturate(.4);
+    transform: scale(2);
+}
 
 /*
 ESERCIZIO_10
 */
 
+.ex-10-icon:hover {     
+    animation: rotate 1s ease-in-out infinite;
+}
+@keyframes rotate {
+    0% {
+        transform: rotate(1turn);
+    }
+}
 
 /*
 ESERCIZIO_11
 */
-
+.ex-11-icon:hover {
+    animation: rotate 2s linear;
+}
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    90% {
+        transform: rotate(315deg);
+    }
+    100% {
+        transform: rotate(0);
+    }
+}
 /*
 ESERCIZIO_12
 */
