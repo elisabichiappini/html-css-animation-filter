@@ -68,3 +68,22 @@
     height: 20px;
 }
 
+/*
+ESERCIZIO_1
+*/
+
+.ex-1-square:hover {
+    background-color: red;
+    transition: 1s;
+    border:2px solid blue;
+}
+
+/*
+ESERCIZIO_2
+*/
+
+.ex-2-square:active {
+    transition: 3s;
+    width: 1000px;
+}
+
