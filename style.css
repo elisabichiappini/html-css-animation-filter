@@ -87,3 +87,71 @@ ESERCIZIO_2
     width: 1000px;
 }
 
+/*
+ESERCIZIO_3
+*/
+
+.ex-3-square:hover {
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    border-radius: 50%;
+}
+
+/*
+ESERCIZIO_4
+*/
+
+.ex-4-square:hover {
+    transition: 5s;
+    opacity: 0;
+}
+
+/*
+ESERCIZIO_5
+*/
+
+
+/*
+ESERCIZIO_6
+*/
+
+
+/*
+ESERCIZIO_7
+*/
+
+
+/*
+ESERCIZIO_8
+*/
+
+
+/*
+ESERCIZIO_9
+*/
+
+
+/*
+ESERCIZIO_10
+*/
+
+
+/*
+ESERCIZIO_11
+*/
+
+/*
+ESERCIZIO_12
+*/
+
+/*
+ESERCIZIO_13
+*/
+
+
+/*
+ESERCIZIO_14
+*/
+
+/*
+ESERCIZIO_15
+*/
